@@ -1,5 +1,5 @@
 name = "hh-investors"
-main = "src/index.js"
+main = "index.js"
 compatibility_date = "2025-01-01"
 
 # After connecting this repo in Cloudflare (Workers & Pages -> Create -> Connect to Git),
