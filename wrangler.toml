@@ -1,0 +1,8 @@
+name = "hh-investors"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+# After connecting this repo in Cloudflare (Workers & Pages -> Create -> Connect to Git),
+# add these in the dashboard rather than here, so secrets never end up in GitHub:
+#   Settings -> Bindings -> KV Namespace -> variable name INVESTORS -> namespace INVESTORS_DATA
+#   Settings -> Variables & Secrets -> ADMIN_KEY, STAFF_KEY
